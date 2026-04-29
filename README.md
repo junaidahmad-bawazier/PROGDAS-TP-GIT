@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-#PROGDAS-TP-GIT
-=======
-#PROGDAS-TP-GIT
->>>>>>> 564fd82a3122069f43934f039207a6f22efa8921
+# PROGDAS-TP-GIT
+Berhasil!
